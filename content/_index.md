@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: CaribData . Data for Impact
+      text: XXX
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
+        text: Collect Data
+        url: https://caribdata.org/redcap
+        # icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: Share Data
+        url: https://zenodo.org/communities/caribdata
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Announcing the release of our data collection platform."
         link:
           text: "Read more"
           url: "/blog/"
