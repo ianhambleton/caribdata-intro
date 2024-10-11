@@ -10,13 +10,13 @@ design:
 sections:
   - block: hero
     content:
-      title: CaribData . Data for Impact
-      text: XXX
+      title: CaribData
+      text: Data for Impact
       primary_action:
         text: Collect Data
         url: https://caribdata.org/redcap
         # icon: rocket-launch
-      secondary_action:
+      primary_action:
         text: Share Data
         url: https://zenodo.org/communities/caribdata
       announcement:
